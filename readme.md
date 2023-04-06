@@ -18,7 +18,11 @@ We hope you enjoy using **Git Dust** as much as we enjoyed creating it.
 
 <table>
   <tr>
-    <td><img src="" alt="1"/></td>
+    <td><img src="https://raw.githubusercontent.com/bajrangCoder/acode-git-dust/main/screenshots/1.png" alt="1"/></td>
+    <td><img src="https://raw.githubusercontent.com/bajrangCoder/acode-git-dust/main/screenshots/2.png" alt="2"/></td>
+    <td><img src="https://raw.githubusercontent.com/bajrangCoder/acode-git-dust/main/screenshots/3.png" alt="3"/></td>
+    <td><img src="https://raw.githubusercontent.com/bajrangCoder/acode-git-dust/main/screenshots/4.png" alt="4"/></td>
+    <td><img src="https://raw.githubusercontent.com/bajrangCoder/acode-git-dust/main/screenshots/5.png" alt="5"/></td>
   </tr>
 </table>
 
